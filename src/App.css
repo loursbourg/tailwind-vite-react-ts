@@ -1,0 +1,8 @@
+
+html,body{
+  font-family: "Tinos", serif;
+  background-color: #f4f4f4;
+  padding: 4rem;
+  display: flex; 
+  justify-content: center;
+}
