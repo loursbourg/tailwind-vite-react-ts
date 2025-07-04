@@ -1,13 +1,11 @@
-import "./App.css";
+import "./app.css";
 import { Main } from "./containers/main";
 
 function App() {
   return (
-    <>
-      <div>
-        <Main />
-      </div>
-    </>
+    <div>
+      <Main />
+    </div>
   );
 }
 
